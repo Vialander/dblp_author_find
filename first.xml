@@ -1,0 +1,1331 @@
+<dblp>
+<www mdate="20051006" key="persons/Ley93">
+<author>A</author>
+<title>DBLP.unitrier.de: Computer Science Bibliography</title>
+<url>http://dblp.unitrier.de/</url>
+<year>1993</year>
+</www>
+
+<inproceedings mdate="20120918" key="persons/Codd74">
+<author>A</author>
+<author>B</author>
+<title>Seven Steps to Rendezvous with the Casual User.</title>
+<month>January</month>
+<year>1974</year>
+<pages>179200</pages>
+<booktitle>IFIP Working Conference Data Base Management</booktitle>
+<url>db/conf/ds/dbm74.html#Codd74</url>
+<note>IBM Research Report RJ 1333, San Jose, California</note>
+<cdrom>DS/DS1974/P179.pdf</cdrom>
+</inproceedings>
+
+<article mdate="20020103" key="persons/CoddD74">
+<author>C</author>
+<author>B</author>
+<author>A</author>
+<title>Interactive Support for NonProgrammers: The Relational and Network Approaches.</title>
+<journal>IBM Research Report, San Jose, California</journal>
+<volume>RJ1400</volume>
+<month>June</month>
+<year>1974</year>
+</article>
+
+<article mdate="20020103" key="persons/Hall74">
+<author>B</author>
+<author>A</author>
+<title>Common Subexpression Identification in General Algebraic Systems.</title>
+<journal>Technical Rep. UKSC 0060, IBM United Kingdom Scientific Centre</journal>
+<month>November</month>
+<year>1974</year>
+</article>
+
+<article mdate="20020103" key="persons/Codd81">
+<author>A</author>
+<title>The Capabilities of Relational Database Management Systems.</title>
+<journal>IBM Research Report, San Jose, California</journal>
+<month>May</month>
+<year>1981</year>
+<volume>RJ3132</volume>
+<cdrom>ibmTR/rj3132.pdf</cdrom>
+<ee>db/labs/ibm/RJ3132.html</ee>
+</article>
+
+<article mdate="20020103" key="persons/Tresch96">
+<author>Markus Tresch</author>
+<title>Principles of Distributed Object Database Languages.</title>
+<journal>technical Report 248, ETH Zuumlrich, Dept. of Computer Science</journal>
+<month>July</month>
+<year>1996</year>
+</article>
+
+<article mdate="20020103" key="persons/Codd72">
+<author>E. F. Codd</author>
+<title>Relational Completeness of Data Base Sublanguages.</title>
+<journal>In: R. Rustin ed.: Database Systems: 6598, Prentice Hall and IBM Research Report RJ 987, San Jose, California</journal>
+<month>March</month>
+<year>1972</year>
+<cdrom>ibmTR/rj987.pdf</cdrom>
+<ee>db/labs/ibm/RJ987.html</ee>
+</article>
+
+<article mdate="20150317" key="persons/Codd71a">
+<author>E. F. Codd</author>
+<title>Further Normalization of the Data Base Relational Model.</title>
+<journal>IBM Research Report, San Jose, California</journal>
+<volume>RJ909</volume>
+<month>August</month>
+<year>1971</year>
+</article>
+
+<article mdate="20020103" key="persons/Codd71">
+<author>E. F. Codd</author>
+<title>Data Base Sublanguage Founded on the Relational Calculus.</title>
+<journal>IBM Research Report, San Jose, California</journal>
+<month>July</month>
+<volume>RJ893</volume>
+<year>1971</year>
+</article>
+
+<article mdate="20020103" key="persons/Codd69">
+<author>E. F. Codd</author>
+<title>Derivability, Redundancy and Consistency of Relations Stored in Large Data Banks.</title>
+<journal>IBM Research Report, San Jose, California</journal>
+<volume>RJ599</volume>
+<month>August</month>
+<year>1969</year>
+<cdrom>ibmTR/rj599.pdf</cdrom>
+<ee>db/labs/ibm/RJ599.html</ee>
+</article>
+
+<article mdate="20020103" key="persons/Codd71b">
+<author>E. F. Codd</author>
+<title>Normalized Data Base Structure: A Brief Tutorial.</title>
+<journal>IBM Research Report, San Jose, California</journal>
+<month>November</month>
+<year>1971</year>
+<volume>RJ935</volume>
+</article>
+
+<book mdate="20070112" key="persons/Lions1996">
+<author>John Lions</author>
+<title>Lions' Commentary on UNIX 6th Edition, with Source Code</title>
+<year>1996</year>
+<publisher>PeertoPeer Communications</publisher>
+<isbn>1573980137</isbn>
+<url>http://www.lemis.com/grog/Documentation/Lions/index.html</url>
+</book>
+
+<article mdate="20120227" key="persons/CasperGGGHLR12">
+<author>Markus Casper</author>
+<author>Gayane Grigoryan</author>
+<author>Oliver Gronz</author>
+<author>Oliver Gutjahr</author>
+<author>Guumlnther Heinemann</author>
+<author>Rita Ley</author>
+<author>Andreas Rock</author>
+<title>Analysis of projected hydrological behavior of catchments based on signature indices</title>
+<journal>Hydrology and Earth System Sciences</journal>
+<volume>16</volume>
+<pages>409421</pages>
+<year>2012</year>
+<ee>http://dx.doi.org/10.5194/hess164092012</ee>
+<url>http://dx.doi.org/10.5194/hess164092012</url>
+</article>
+
+<www mdate="20051006" key="persons/Ley2003">
+<author>Michael Ley</author>
+<title>ACM SIGMOD Contribution Award 2003 Acceptance Speech</title>
+<year>2003</year>
+<url>http://www.informatik.unitrier.de/~ley/db/about/contributionaward03.html</url>
+</www>
+
+<article mdate="20120220" key="persons/LeyCHM11">
+<author>Rita Ley</author>
+<author>Markus Casper</author>
+<author>Hugo Hellebrand</author>
+<author>Ralf Merz</author>
+<title>Catchment classification by runoff behaviour with selforganizing maps SOM</title>
+<journal>Hydrology and Earth System Sciences</journal>
+<volume>15</volume>
+<pages>29472962</pages>
+<year>2011</year>
+<ee>http://dx.doi.org/10.5194/hess1529472011</ee>
+<url>http://dx.doi.org/10.5194/hess1529472011</url>
+</article>
+
+<inproceedings mdate="20020103" key="persons/JohnLM94">
+<author>Werner John</author>
+<author>Dominik Ley</author>
+<author>Joachim Muumlller</author>
+<title>ROSAR  Rule Oriented System for Analysis of Reflections on Printed Circuit Boards</title>
+<pages>4043</pages>
+<year>1994</year>
+<booktitle>Proc. 11th Int. Symposium on Electromagnetic Compatibility EMC'94</booktitle>
+</inproceedings>
+<article mdate="20111229" key="persons/Ley95" publtype="informal publication">
+<author>Michael Ley</author>
+<title>DBampLP: A WWW Bibliography on Databases and Logic Programming</title>
+<journal>Compulog Newsletter</journal>
+<year>1995</year>
+<url>http://www.informatik.unitrier.de/~ley/db/about/compulog.ps</url>
+</article>
+
+<article mdate="20140526" key="dblpnote/error" publtype="informal publication">
+<title>error</title>
+</article>
+<article mdate="20130213" key="dblpnote/duplicate" publtype="informal publication">
+<title>duplicate entry was deleted</title>
+</article>
+<article mdate="20130212" key="dblpnote/retracted" publtype="informal publication">
+<title>paper retracted</title>
+</article>
+<article mdate="20130210" key="dblpnote/withdrawn" publtype="informal publication">
+<title>paper withdrawn</title>
+</article>
+<article mdate="20130212" key="dblpnote/neverpublished" publtype="informal publication">
+<title>was never published</title>
+</article>
+<article mdate="20130212" key="dblpnote/ellipsis" publtype="informal publication">
+<title>#8230</title>
+</article>
+<incollection mdate="20111125" key="reference/algo/Makinen08" publtype="encyclopedia entry">
+<author>Veli Maumlkinen</author>
+<title>Compressed Suffix Array.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_82</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Makinen08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/X08o" publtype="encyclopedia entry">
+<title>Atomic Scan.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_41</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#X08o</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Huang08a" publtype="encyclopedia entry">
+<author>LiSha Huang</author>
+<title>General Equilibrium.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_160</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Huang08a</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/WulffNilsen15" publtype="encyclopedia entry">
+<author>Christian WulffNilsen</author>
+<title>Approximate Distance Oracles with Improved Query Time.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_5681</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#WulffNilsen15</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/X08br" publtype="encyclopedia entry">
+<title>Shortest Route.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_373</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#X08br</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Fagerberg08b" publtype="encyclopedia entry">
+<author>Rolf Fagerberg</author>
+<title>String Sorting.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_408</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Fagerberg08b</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/ChenD08b" publtype="encyclopedia entry">
+<author>Xi Chen</author>
+<author>Xiaotie Deng</author>
+<title>Nonapproximability of Bimatrix Nash Equilibria.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_258</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#ChenD08b</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/NaFGP08" publtype="encyclopedia entry">
+<author>Joong Chae Na</author>
+<author>Paolo Ferragina</author>
+<author>Raffaele Giancarlo</author>
+<author>Kunsoo Park</author>
+<title>TwoDimensional Pattern Indexing.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_442</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#NaFGP08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Johnson08" publtype="encyclopedia entry">
+<author>David S. Johnson</author>
+<title>Bin Packing.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_49</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Johnson08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/KontogiannisPS08" publtype="encyclopedia entry">
+<author>Spyros C. Kontogiannis</author>
+<author>Panagiota N. Panagopoulou</author>
+<author>Paul G. Spirakis</author>
+<title>Approximations of Bimatrix Nash Equilibria.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_30</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#KontogiannisPS08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Langberg08" publtype="encyclopedia entry">
+<author>Michael Langberg</author>
+<title>Graph Coloring.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_170</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Langberg08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Klein08a" publtype="encyclopedia entry">
+<author>Rolf Klein</author>
+<title>Geometric Dilation of Geometric Networks.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_166</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Klein08a</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Takeda08" publtype="encyclopedia entry">
+<author>Masayuki Takeda</author>
+<title>Compressed Pattern Matching.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_81</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Takeda08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Schmidt08" publtype="encyclopedia entry">
+<author>Markus Schmidt</author>
+<title>Packet Switching in MultiQueue Switches.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_274</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Schmidt08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Manasse08" publtype="encyclopedia entry">
+<author>Mark S. Manasse</author>
+<title>Ski Rental Problem.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_378</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Manasse08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Ambainis08" publtype="encyclopedia entry">
+<author>Andris Ambainis</author>
+<title>Quantum Algorithm for Element Distinctness.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_306</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Ambainis08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/X08ca" publtype="encyclopedia entry">
+<title>String.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_407</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#X08ca</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/LeoneNR08" publtype="encyclopedia entry">
+<author>Pierre Leone</author>
+<author>Sotiris E. Nikoletseas</author>
+<author>Joseacute D. P. Rolim</author>
+<title>Randomized Energy Balance Algorithms in Sensor Networks.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_323</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#LeoneNR08</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/Mestre15" publtype="encyclopedia entry">
+<author>Juliaacuten Mestre</author>
+<title>Subset Sum Algorithm for Bin Packing.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_4961</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#Mestre15</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/CharronBostS08" publtype="encyclopedia entry">
+<author>Bernadette CharronBost</author>
+<author>Andreacute Schiper</author>
+<title>Consensus with Partial Synchrony.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_91</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#CharronBostS08</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/KumarM0S15" publtype="encyclopedia entry">
+<author>V. S. Anil Kumar</author>
+<author>Madhav V. Marathe</author>
+<author>Srinivasan Parthasarathy 0002</author>
+<author>Aravind Srinivasan</author>
+<title>Minimum Weighted Completion Time.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_2402</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#KumarM0S15</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Niedermeier08" publtype="encyclopedia entry">
+<author>Rolf Niedermeier</author>
+<title>Data Reduction for Domination in Graphs.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_99</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Niedermeier08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Furer08" publtype="encyclopedia entry">
+<author>Martin Fuumlrer</author>
+<title>DegreeBounded Trees.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_104</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Furer08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Nayak08" publtype="encyclopedia entry">
+<author>Ashwin Nayak</author>
+<title>Quantum Algorithm for Checking Matrix Identities.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_303</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Nayak08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/X08ct" publtype="encyclopedia entry">
+<title>VCG.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_456</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#X08ct</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/CrochemoreL15" publtype="encyclopedia entry">
+<author>Maxime Crochemore</author>
+<author>Thierry Lecroq</author>
+<title>Multiple String Matching.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_3662</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#CrochemoreL15</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Guo08" publtype="encyclopedia entry">
+<author>Jiong Guo</author>
+<title>Undirected Feedback Vertex Set.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_450</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Guo08</url>
+</incollection>
+<book mdate="20111125" key="reference/algo/2008t">
+<editor>Berthold Voumlcking</editor>
+<editor>Helmut Alt</editor>
+<editor>Martin Dietzfelbinger</editor>
+<editor>Ruumldiger Reischuk</editor>
+<editor>Christian Scheideler</editor>
+<editor>Heribert Vollmer</editor>
+<editor>Dorothea Wagner</editor>
+<title>Taschenbuch der Algorithmen</title>
+<series>eXamen.press</series>
+<publisher>Springer</publisher>
+<year>2008</year>
+<isbn>9783540763932</isbn>
+<url>db/reference/algo/taschenbuch2008.html</url>
+</book>
+
+<incollection mdate="20111125" key="reference/algo/Kratsch08" publtype="encyclopedia entry">
+<author>Dieter Kratsch</author>
+<author>Fedor V. Fomin</author>
+<author>Fabrizio Grandoni</author>
+<title>Exact Algorithms for Dominating Set.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_132</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Kratsch08</url>
+</incollection>
+<incollection mdate="20120424" key="reference/algo/Rossmanith08">
+<author>Peter Rossmanith</author>
+<title>Simulated Annealing.</title>
+<pages>423431</pages>
+<year>2008</year>
+<booktitle>Taschenbuch der Algorithmen</booktitle>
+<ee>http://dx.doi.org/10.1007/9783540763949_43</ee>
+<crossref>reference/algo/2008t</crossref>
+<url>db/reference/algo/taschenbuch2008.html#Rossmanith08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Kontogiannis08" publtype="encyclopedia entry">
+<author>Spyros C. Kontogiannis</author>
+<title>Computing Pure Equilibria in the Game of Parallel Links.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_87</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Kontogiannis08</url>
+</incollection>
+<incollection mdate="20120424" key="reference/algo/Hopfner08">
+<author>Hagen Houmlpfner</author>
+<title>Topologisches Sortieren  Mit welcher Aufgabe meiner ToDoListe fange ich an?</title>
+<pages>4349</pages>
+<year>2008</year>
+<booktitle>Taschenbuch der Algorithmen</booktitle>
+<ee>http://dx.doi.org/10.1007/9783540763949_5</ee>
+<crossref>reference/algo/2008t</crossref>
+<url>db/reference/algo/taschenbuch2008.html#Hopfner08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/X08dh" publtype="encyclopedia entry">
+<title>Weighted Caching.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_475</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#X08dh</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/X08al" publtype="encyclopedia entry">
+<title>Extremal Problems.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_138</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#X08al</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/FisherB08" publtype="encyclopedia entry">
+<author>Nathan Fisher</author>
+<author>Sanjoy K. Baruah</author>
+<title>RateMonotonic Scheduling.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_334</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#FisherB08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Chekuri08" publtype="encyclopedia entry">
+<author>Chandra Chekuri</author>
+<title>Multicommodity Flow, Welllinked Terminals and Routing Problems.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_244</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Chekuri08</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/KimWWT15" publtype="encyclopedia entry">
+<author>Donghyun Kim</author>
+<author>Wei Wang</author>
+<author>Weili Wu</author>
+<author>Alade O. Tokuta</author>
+<title>FaultTolerant Connected Dominating Set.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_6221</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#KimWWT15</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/X08dg" publtype="encyclopedia entry">
+<title>Weighted Bipartite Matching.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_474</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#X08dg</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Wang08a" publtype="encyclopedia entry">
+<author>Chengwen Chris Wang</author>
+<title>Olog log ncompetitive Binary Search Tree.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_263</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Wang08a</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/LopezOrtiz15" publtype="encyclopedia entry">
+<author>Alejandro LoacutepezOrtiz</author>
+<title>Alternative Performance Measures in Online Algorithms.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_132</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#LopezOrtiz15</url>
+</incollection>
+<incollection mdate="20130429" key="reference/algo/YapS08" publtype="encyclopedia entry">
+<author>CheeKeng Yap</author>
+<author>Vikram Sharma 0001</author>
+<title>Robust Geometric Computation.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_349</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#YapS08</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/Cormode15" publtype="encyclopedia entry">
+<author>Graham Cormode</author>
+<title>AMS Sketch.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_5781</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#Cormode15</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Navarro08" publtype="encyclopedia entry">
+<author>Gonzalo Navarro</author>
+<title>Approximate Regular Expression Matching.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_22</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Navarro08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Vitter08" publtype="encyclopedia entry">
+<author>Jeffrey Scott Vitter</author>
+<title>External Sorting and Permuting.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_137</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Vitter08</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/Kreutzer15" publtype="encyclopedia entry">
+<author>Stephan Kreutzer</author>
+<title>Nowhere Crownful Classes of Directed Graphs.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_6941</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#Kreutzer15</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Kuhn08" publtype="encyclopedia entry">
+<author>Fabian Kuhn</author>
+<title>Local Approximation of Covering and Packing Problems.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_209</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Kuhn08</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/Barbay15" publtype="encyclopedia entry">
+<author>Jeacutereacutemy Barbay</author>
+<title>Succinct and Compressed Data Structures for Permutations and Integer Functions.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_4112</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#Barbay15</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/McKay08" publtype="encyclopedia entry">
+<author>Brendan D. McKay</author>
+<title>Graph Isomorphism.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_172</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#McKay08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Konjevod08" publtype="encyclopedia entry">
+<author>Goran Konjevod</author>
+<title>Separators in Graphs.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_362</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Konjevod08</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/Amenta15" publtype="encyclopedia entry">
+<author>Nina Amenta</author>
+<title>Surface Reconstruction.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_7131</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#Amenta15</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/X08at" publtype="encyclopedia entry">
+<title>Incremental Algorithms.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_186</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#X08at</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/DemetrescuI08a" publtype="encyclopedia entry">
+<author>Camil Demetrescu</author>
+<author>Giuseppe F. Italiano</author>
+<title>SingleSource Fully Dynamic Reachability.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_376</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#DemetrescuI08a</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Sahinalp08" publtype="encyclopedia entry">
+<author>Suumlleyman Cenk Sahinalp</author>
+<title>Edit Distance Under Block Operations.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_122</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Sahinalp08</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/Ilie15" publtype="encyclopedia entry">
+<author>Lucian Ilie</author>
+<title>Regular Expression Matching.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_3402</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#Ilie15</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/Imreh15" publtype="encyclopedia entry">
+<author>Csanaacuted Imreh</author>
+<title>Maximizing the Minimum Machine Load.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_5031</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#Imreh15</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Chao08a" publtype="encyclopedia entry">
+<author>KunMao Chao</author>
+<title>Maximumscoring Segment with Length Restrictions.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_226</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Chao08a</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/X08aq" publtype="encyclopedia entry">
+<title>Graphs.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_173</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#X08aq</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/Mertzios15a" publtype="encyclopedia entry">
+<author>George B. Mertzios</author>
+<title>Multitolerance Graphs.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_6841</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#Mertzios15a</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/Chakrabarty15" publtype="encyclopedia entry">
+<author>Deeparnab Chakrabarty</author>
+<title>MaxMin Allocation.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_5391</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#Chakrabarty15</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Epstein08b" publtype="encyclopedia entry">
+<author>Leah Epstein</author>
+<title>Online Interval Coloring.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_264</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Epstein08b</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/KanteN15" publtype="encyclopedia entry">
+<author>Mamadou Moustapha Kanteacute</author>
+<author>Lhouari Nourine</author>
+<title>Minimal Dominating Set Enumeration.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_7211</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#KanteN15</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/X08af" publtype="encyclopedia entry">
+<title>Dominating Set.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_119</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#X08af</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Yi08" publtype="encyclopedia entry">
+<author>ChihWei Yi</author>
+<title>Critical Range for Wireless Networks.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_95</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Yi08</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/Dey15a" publtype="encyclopedia entry">
+<author>Tamal Krishna Dey</author>
+<title>Smooth Surface and Volume Meshing.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_7171</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#Dey15a</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/KranakisK08" publtype="encyclopedia entry">
+<author>Evangelos Kranakis</author>
+<author>Danny Krizanc</author>
+<title>Mobile Agents and Exploration.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_242</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#KranakisK08</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/Berg15" publtype="encyclopedia entry">
+<author>Mark de Berg</author>
+<title>Hierarchical Space Decompositions for LowDensity Scenes.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_5901</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#Berg15</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Speckmann08" publtype="encyclopedia entry">
+<author>Bettina Speckmann</author>
+<title>Kinetic Data Structures.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_191</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Speckmann08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Bansal08d" publtype="encyclopedia entry">
+<author>Nikhil Bansal</author>
+<title>Shortest Elapsed Time First Scheduling.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_369</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Bansal08d</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/X08de" publtype="encyclopedia entry">
+<title>WaitFree Shared Variables.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_471</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#X08de</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/Langetepe15" publtype="encyclopedia entry">
+<author>Elmar Langetepe</author>
+<title>Robotics.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_3482</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#Langetepe15</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Ramachandran08" publtype="encyclopedia entry">
+<author>Vijaya Ramachandran</author>
+<title>Randomized Minimum Spanning Tree.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_325</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Ramachandran08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Bader08a" publtype="encyclopedia entry">
+<author>David A. Bader</author>
+<title>High Performance Algorithm Engineering for Largescale Problems.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_178</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Bader08a</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/Chrobak15" publtype="encyclopedia entry">
+<author>Marek Chrobak</author>
+<title>Algorithm DCTREE for k Servers on Trees.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_72</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#Chrobak15</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Fang08a" publtype="encyclopedia entry">
+<author>Qizhi Fang</author>
+<title>Majority Equilibrium.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_217</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Fang08a</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Ramos08" publtype="encyclopedia entry">
+<author>Edgar A. Ramos</author>
+<title>TSPBased Curve Reconstruction.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_440</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Ramos08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/King08" publtype="encyclopedia entry">
+<author>Valerie King</author>
+<title>Fully Dynamic Connectivity.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_152</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#King08</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/LangbergC15" publtype="encyclopedia entry">
+<author>Michael Langberg</author>
+<author>Chandra Chekuri</author>
+<title>Graph Coloring.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_1702</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#LangbergC15</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/Yeo15" publtype="encyclopedia entry">
+<author>Anders Yeo</author>
+<title>Kernelization: MaxLin Above Average.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_5321</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#Yeo15</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Sitters08" publtype="encyclopedia entry">
+<author>Reneacute A. Sitters</author>
+<title>Generalized TwoServer Problem.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_162</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Sitters08</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/0002DC15" publtype="encyclopedia entry">
+<author>Feng Wang 0002</author>
+<author>DingZhu Du</author>
+<author>Xiuzhen Cheng</author>
+<title>Connected Dominating Set.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_892</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#0002DC15</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Chandra08" publtype="encyclopedia entry">
+<author>Tushar Deepak Chandra</author>
+<title>Randomization in Distributed Computing.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_321</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Chandra08</url>
+</incollection>
+<incollection mdate="20120424" key="reference/algo/ClausDP08">
+<author>Volker Claus</author>
+<author>Volker Diekert</author>
+<author>Holger Petersen</author>
+<title>Partnerschaftsvermittlung.</title>
+<pages>373383</pages>
+<year>2008</year>
+<booktitle>Taschenbuch der Algorithmen</booktitle>
+<ee>http://dx.doi.org/10.1007/9783540763949_37</ee>
+<crossref>reference/algo/2008t</crossref>
+<url>db/reference/algo/taschenbuch2008.html#ClausDP08</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/Zhao15" publtype="encyclopedia entry">
+<author>Zhang Zhao</author>
+<title>Strongly Connected Dominating Set.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_6191</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#Zhao15</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Rosamond08" publtype="encyclopedia entry">
+<author>Frances A. Rosamond</author>
+<title>Max Leaf Spanning Tree.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_228</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Rosamond08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/X08cr" publtype="encyclopedia entry">
+<title>Using Visualization in the Empirical Assessment of Algorithms.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_453</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#X08cr</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Trevisan08" publtype="encyclopedia entry">
+<author>Luca Trevisan</author>
+<title>Learning Heavy Fourier Coefficients of Boolean Functions.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_197</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Trevisan08</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/Wang0M15" publtype="encyclopedia entry">
+<author>Lusheng Wang</author>
+<author>Ming Li 0001</author>
+<author>Bin Ma</author>
+<title>Closest String and Substring Problems.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_732</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#Wang0M15</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/KaporisK08" publtype="encyclopedia entry">
+<author>Alexis C. Kaporis</author>
+<author>Lefteris M. Kirousis</author>
+<title>Thresholds of Random kSat.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_423</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#KaporisK08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/X08b" publtype="encyclopedia entry">
+<title>Agreement.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_6</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#X08b</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/Manasse15" publtype="encyclopedia entry">
+<author>Mark S. Manasse</author>
+<title>Ski Rental Problem.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_3782</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#Manasse15</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Chen08a" publtype="encyclopedia entry">
+<author>Jianer Chen</author>
+<title>Vertex Cover Kernelization.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_460</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Chen08a</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Karakostas08" publtype="encyclopedia entry">
+<author>George Karakostas</author>
+<title>Fractional Packing and Covering Problems.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_149</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Karakostas08</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/Bateni15" publtype="encyclopedia entry">
+<author>MohammadHossein Bateni</author>
+<title>Secretary Problems and Online Auctions.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_7601</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#Bateni15</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/X08v" publtype="encyclopedia entry">
+<title>Buffering.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_58</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#X08v</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Fernau08" publtype="encyclopedia entry">
+<author>Henning Fernau</author>
+<title>Parameterized Algorithms for Drawing Graphs.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_281</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Fernau08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/X08da" publtype="encyclopedia entry">
+<title>Voting Systems.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_467</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#X08da</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/BrandstadtN15" publtype="encyclopedia entry">
+<author>Andreas Brandstaumldt</author>
+<author>Ragnar Nevries</author>
+<title>Efficient Dominating and Edge Dominating Sets for Graphs and Hypergraphs.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_6891</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#BrandstadtN15</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/AlicherryBL08" publtype="encyclopedia entry">
+<author>Mansoor Alicherry</author>
+<author>Randeep Bhatia</author>
+<author>Li Erran Li</author>
+<title>Channel Assignment and Routing in MultiRadio Wireless Mesh Networks.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_67</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#AlicherryBL08</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/JurdzinskiK15" publtype="encyclopedia entry">
+<author>Tomasz Jurdzinski</author>
+<author>Dariusz R. Kowalski</author>
+<title>The WakeUp Problem in MultiHop Radio Networks.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_5361</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#JurdzinskiK15</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/BecchettiLMP08" publtype="encyclopedia entry">
+<author>Luca Becchetti</author>
+<author>Stefano Leonardi</author>
+<author>Alberto MarchettiSpaccamela</author>
+<author>Kirk Pruhs</author>
+<title>Flow Time Minimization.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_146</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#BecchettiLMP08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/X08u" publtype="encyclopedia entry">
+<title>Boolean Satisfiability.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_53</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#X08u</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Italiano08b" publtype="encyclopedia entry">
+<author>Giuseppe F. Italiano</author>
+<title>Fully Dynamic Higher Connectivity.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_154</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Italiano08b</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/DemaineH08a" publtype="encyclopedia entry">
+<author>Erik D. Demaine</author>
+<author>MohammadTaghi Hajiaghayi</author>
+<title>Bidimensionality.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_47</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#DemaineH08a</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Bansal08b" publtype="encyclopedia entry">
+<author>Nikhil Bansal</author>
+<title>Multilevel Feedback Queues.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_249</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Bansal08b</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/Epstein15c" publtype="encyclopedia entry">
+<author>Leah Epstein</author>
+<title>Online Interval Coloring.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_2642</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#Epstein15c</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/NikolenkoK15" publtype="encyclopedia entry">
+<author>Sergey I. Nikolenko</author>
+<author>Kirill Kogan</author>
+<title>Single and Multiple Buffer Processing.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_5351</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#NikolenkoK15</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Hon08" publtype="encyclopedia entry">
+<author>WingKai Hon</author>
+<title>Nonshared Edges.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_259</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Hon08</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/Raptopoulos15" publtype="encyclopedia entry">
+<author>Christoforos Raptopoulos</author>
+<title>Colouring Nonsparse Random Intersection Graphs.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_5971</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#Raptopoulos15</url>
+</incollection>
+<incollection mdate="20120424" key="reference/algo/EigenwilligM08">
+<author>Arno Eigenwillig</author>
+<author>Kurt Mehlhorn</author>
+<title>Multiplikation langer Zahlen schneller als in der Schule.</title>
+<pages>109118</pages>
+<year>2008</year>
+<booktitle>Taschenbuch der Algorithmen</booktitle>
+<ee>http://dx.doi.org/10.1007/9783540763949_11</ee>
+<crossref>reference/algo/2008t</crossref>
+<url>db/reference/algo/taschenbuch2008.html#EigenwilligM08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/X08cd" publtype="encyclopedia entry">
+<title>Tree Agreement.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_428</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#X08cd</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/Pilipczuk15a" publtype="encyclopedia entry">
+<author>Marcin Pilipczuk</author>
+<title>Planar Directed kVertexDisjoint Paths Problem.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_6931</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#Pilipczuk15a</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/BaezaYates08" publtype="encyclopedia entry">
+<author>Ricardo A. BaezaYates</author>
+<title>Deterministic Searching on the Line.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_106</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#BaezaYates08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Mendel08" publtype="encyclopedia entry">
+<author>Manor Mendel</author>
+<title>Metrical Task Systems.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_229</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Mendel08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Hallgren08" publtype="encyclopedia entry">
+<author>Sean Hallgren</author>
+<title>Quantum Algorithm for Factoring.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_307</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Hallgren08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Bansal08" publtype="encyclopedia entry">
+<author>Nikhil Bansal</author>
+<title>Approximation Schemes for Bin Packing.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_31</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Bansal08</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/FerraginaM08a" publtype="encyclopedia entry">
+<author>Paolo Ferragina</author>
+<author>Giovanni Manzini</author>
+<title>BurrowsWheeler Transform.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_59</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#FerraginaM08a</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/Bodlaender15a" publtype="encyclopedia entry">
+<author>Hans L. Bodlaender</author>
+<title>Treewidth of Graphs.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_4312</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#Bodlaender15a</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/Cheng15a" publtype="encyclopedia entry">
+<author>SiuWing Cheng</author>
+<title>Manifold Reconstruction.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_7141</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#Cheng15a</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/Pettie08a" publtype="encyclopedia entry">
+<author>Seth Pettie</author>
+<title>Minimum Spanning Trees.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_239</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Pettie08a</url>
+</incollection>
+<incollection mdate="20150118" key="reference/algo/Bodlaender15" publtype="encyclopedia entry">
+<author>Hans L. Bodlaender</author>
+<title>Kernelization, Exponential Lower Bounds.</title>
+<year>2015</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9783642278488_5211</ee>
+<crossref>reference/algo/2015</crossref>
+<url>db/reference/algo/algo2015.html#Bodlaender15</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/X08ch" publtype="encyclopedia entry">
+<title>Truthful.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_434</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#X08ch</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/X08ar" publtype="encyclopedia entry">
+<title>Hitting Set.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_179</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#X08ar</url>
+</incollection>
+<incollection mdate="20111125" key="reference/algo/X08s" publtype="encyclopedia entry">
+<title>BlockSorting Data Compression.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>http://dx.doi.org/10.1007/9780387301624_51</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#X08s</url>
+</incollection>
+</dblp>
